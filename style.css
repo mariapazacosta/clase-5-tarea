@@ -1,0 +1,69 @@
+
+
+.color-tabla {
+
+    color: black;
+    background-color: rgb(177, 245, 222);
+}
+
+.titulo-importante {
+    color: rgb(253, 172, 142);
+    background-color:black;
+}
+.dias-horarios {
+    color: black;
+    background-color: rgb(176, 118, 230);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.horarios-dias {
+    color: black;
+    background-color: darksalmon;
+    font-style: italic;
+}
+
+
+
+.cuerpo-titulo {
+    background-color:rgb(255, 216, 203);
+font-family:'Courier New', Courier, monospace;
+}
+
+
+.subtitulo{
+    color: black;
+    background-color: darkgray;
+}
+
+.lista {
+    color: black;
+    background-color: white;
+    list-style:none;
+}
+
+.fondo {
+    color:black;
+    background-color:burlywood;
+   width: 100%;
+   height: 14cm;
+}
+
+.tamaño-imagen {
+    width: 20cm;
+    height: 10cm;
+}
+
+.pie-pagina {
+    color: black;
+    background-color: brown;
+    width: 100%;
+    height: 1cm;
+}
+
+.borde-formulario {
+    border:  8px solid black;
+    margin: auto;
+    padding: 50px;
+    background-color: darkgrey;
+}
